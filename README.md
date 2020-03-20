@@ -27,3 +27,7 @@ The script look at your 'screenshots' folder and 'latest.log' file then react on
 It also look at you 'launcher-settings.json' file to use your Minecraft display name to title the Discord messages and filter logs
 
 Your Minecraft/Mojang account remains safely private.
+
+## Windows 64b executable
+
+The 64-bits Windows executable file is created with https://github.com/brentvollebregt/auto-py-to-exe
