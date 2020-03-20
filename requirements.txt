@@ -1,0 +1,2 @@
+discord-webhook==0.7.1
+watchdog==0.10.2
