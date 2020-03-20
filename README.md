@@ -1,1 +1,1 @@
-# Minecraft-Discord-Poster
+# Jumbef's Minecraft-Discord-sender
